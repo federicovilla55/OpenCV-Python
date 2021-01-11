@@ -9,3 +9,4 @@ Python libraries needed: [OpenCV](https://pypi.org/project/opencv-python/), [Num
 ## Implementation
 
 Insert in the [images](https://github.com/federicovilla55/OpenCV-Python/tree/master/images) directory some subfolders containing the photos for recognition.
+Then run [OpenCV-Training.py](https://github.com/federicovilla55/OpenCV-Python/blob/main/OpenCV-Training.py) for configuration (creating trainer.yml and \pickles\face-labels).
