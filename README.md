@@ -4,7 +4,7 @@ Python program for Face Recognition and Identification using the Open Source Com
 ## Requirements
 
 In order to run the .py file you must have Python 3 installed. 
-Python libraries needed: [OpenCV](https://pypi.org/project/opencv-python/) [NumPy](https://numpy.org/install/) [Pillow](https://pypi.org/project/Pillow/)
+Python libraries needed: [OpenCV](https://pypi.org/project/opencv-python/), [NumPy](https://numpy.org/install/), [Pillow](https://pypi.org/project/Pillow/)...
 
 ## Implementation
 
